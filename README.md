@@ -39,7 +39,7 @@ Start the server
 
 ## Demo
 
-<img src="https://github.com/Vibhukumar10/react-quiz-app/blob/main/media/React-Quiz-App.gif?raw=true" />
+<img src="https://github.com/Vibhukumar10/react-calculator/blob/main/media/Calculator.gif" />
 
 ## Deployment
 
