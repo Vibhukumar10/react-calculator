@@ -2,6 +2,10 @@
 
 Simple Calcluator Application using React and useReducer Hook for `State-Management`.
 
+## Demo
+
+<img src="https://github.com/Vibhukumar10/react-calculator/blob/main/media/Calculator.gif" />
+
 ## Installation
 
 Install my-project with npm
@@ -36,10 +40,6 @@ Start the server
 ```bash
   npm run start
 ```
-
-## Demo
-
-<img src="https://github.com/Vibhukumar10/react-calculator/blob/main/media/Calculator.gif" />
 
 ## Deployment
 
